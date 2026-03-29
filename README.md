@@ -1,1 +1,2 @@
 ✅ Excercise 1 - Clusering: https://github.com/Adandoss/Machine-learning/blob/main/047Clustering_Exercises.ipynb
+✅ Excercise 2 - Linear: git status
